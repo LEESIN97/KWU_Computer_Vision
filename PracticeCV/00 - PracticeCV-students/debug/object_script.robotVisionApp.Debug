@@ -1,0 +1,12 @@
+debug/main.o
+debug/circleHough.o
+debug/corner.o
+debug/edge.o
+debug/mainframe.o
+debug/imageform.o
+debug/kfc.o
+debug/opticalFlow.o
+debug/pyramidGaussian.o
+debug/qrc_mainframe.o
+debug/moc_mainframe.o
+debug/moc_imageform.o
